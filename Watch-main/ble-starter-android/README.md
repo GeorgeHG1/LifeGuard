@@ -1,0 +1,1 @@
+# Mobile app that reads sensor data from smartwatch using BLE (Bluetooth Low Energy)
